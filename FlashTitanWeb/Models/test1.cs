@@ -1,6 +1,6 @@
 ﻿namespace FlashTitanWeb.Models
 {
-    public class Test
+    public class test1
     {
     }
 }
