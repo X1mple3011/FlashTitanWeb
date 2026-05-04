@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FlashTitanWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2da629ceb5d5300d84b618aabd2a7a69db1869d7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d76db4f25f1e49cea7d0d8ec6c73d8129c5658b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("FlashTitanWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FlashTitanWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

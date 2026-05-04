@@ -1,7 +1,0 @@
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\a7\a7thumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\f75\f75thumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\g3\g3thumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\pad\prussianpadthumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\s75\s75thumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\v9\v9thumbnail.webp
-C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\wwwroot\images\product-details\x1\x1thumbnail.webp
