@@ -237,3 +237,4 @@ C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\bin\Debug\net10.0\runtimes\win-x64\n
 C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\obj\Debug\net10.0\FlashTitanWeb.csproj.AssemblyReference.cache
 C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\obj\Debug\net10.0\FlashTit.9F6EF97B.Up2Date
+C:\DoAn\Project\FlashTitanWeb\FlashTitanWeb\obj\Debug\net10.0\FlashTitanWeb.sourcelink.json

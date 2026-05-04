@@ -3,48 +3,56 @@
   "WorkspaceRootPath": "C:\\DoAn\\Project\\FlashTitanWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\paymentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\ordermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\orderdetailmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\categorymodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\brandmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\rolemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\migrations\\20260409032612_firstmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -67,16 +75,8 @@
       "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\flashtitanweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\repository\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|solutionrelative:flashtitanweb\\models\\reviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F88950A-A16B-6286-ACAC-A4B7695048A7}|FlashTitanWeb\\FlashTitanWeb.csproj|c:\\doan\\project\\flashtitanweb\\flashtitanweb\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -166,43 +166,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PaymentModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\PaymentModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\PaymentModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\PaymentModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\PaymentModel.cs",
+              "DocumentIndex": 0,
+              "Title": "test1.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\test1.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\test1.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\test1.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\test1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T01:58:58.414Z"
+              "WhenOpened": "2026-05-04T15:51:04.824Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "OrderModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\OrderModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\OrderModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\OrderModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\OrderModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T01:51:47.828Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "OrderDetailModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\OrderDetailModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\OrderDetailModel.cs",
@@ -214,7 +195,48 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "OrderModel.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\OrderModel.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\OrderModel.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\OrderModel.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\OrderModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T01:51:47.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentModel.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\PaymentModel.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\PaymentModel.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\PaymentModel.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\PaymentModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T01:58:58.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ProductModel.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\ProductModel.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ProductModel.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T01:21:59.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ErrorViewModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ErrorViewModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\ErrorViewModel.cs",
@@ -226,7 +248,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "CategoryModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\CategoryModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\CategoryModel.cs",
@@ -238,19 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\CartModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\CartModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\CartModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\CartModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T01:51:16.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CartItemModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\CartItemModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\CartItemModel.cs",
@@ -262,7 +272,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "BrandModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\BrandModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\BrandModel.cs",
@@ -274,20 +284,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\UserModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\UserModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\UserModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\UserModel.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Repository\\DataContext.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Repository\\DataContext.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Repository\\DataContext.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Repository\\DataContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T01:50:49.034Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-04T01:52:39.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
+              "Title": "ReviewModel.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ReviewModel.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\ReviewModel.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ReviewModel.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\ReviewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-06T01:59:29.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "RoleModel.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\RoleModel.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\RoleModel.cs",
@@ -299,19 +320,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ProductModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\ProductModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ProductModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\ProductModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\UserModel.cs",
+              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\UserModel.cs",
+              "RelativeToolTip": "FlashTitanWeb\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T01:21:59.847Z"
+              "WhenOpened": "2026-04-06T01:50:49.034Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "20260409032612_FirstMigration.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Migrations\\20260409032612_FirstMigration.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Migrations\\20260409032612_FirstMigration.cs",
@@ -323,7 +344,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "DataContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Migrations\\DataContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Migrations\\DataContextModelSnapshot.cs",
@@ -335,7 +356,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\appsettings.json",
               "RelativeDocumentMoniker": "FlashTitanWeb\\appsettings.json",
@@ -347,7 +368,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Program.cs",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Program.cs",
@@ -359,7 +380,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 17,
               "Title": "FlashTitanWeb.csproj",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\FlashTitanWeb.csproj",
               "RelativeDocumentMoniker": "FlashTitanWeb\\FlashTitanWeb.csproj",
@@ -371,19 +392,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "DataContext.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Repository\\DataContext.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Repository\\DataContext.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Repository\\DataContext.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Repository\\DataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-04T01:52:39.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "FlashTitanWeb\\Views\\Home\\Index.cshtml",
@@ -392,18 +401,6 @@
               "ViewState": "AgIAAEoAAAAAAAAAAAAAAAwAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-25T02:54:27.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ReviewModel.cs",
-              "DocumentMoniker": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ReviewModel.cs",
-              "RelativeDocumentMoniker": "FlashTitanWeb\\Models\\ReviewModel.cs",
-              "ToolTip": "C:\\DoAn\\Project\\FlashTitanWeb\\FlashTitanWeb\\Models\\ReviewModel.cs",
-              "RelativeToolTip": "FlashTitanWeb\\Models\\ReviewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-06T01:59:29.322Z"
             },
             {
               "$type": "Document",
@@ -647,7 +644,15 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
             }
           ]
         }
