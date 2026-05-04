@@ -1,0 +1,108 @@
+﻿KHOA CÔNG NGHỆ THÔNG TIN
+BỘ MÔN CÔNG NGHỆ PHẦN MỀM
+7778758890
+
+        CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+1079500195580         Độc lập - Tự do - Hạnh phúc
+
+
+ĐỀ CƯƠNG ĐỒ ÁN TỐT NGHIỆP ĐẠI HỌC
+Sinh viên thực hiện:
+TT
+Mã SV
+Họ và tên
+Lớp
+Điện thoại
+E-mail
+1
+2121050239
+Sa Minh Quân
+CNPM K66C
+0868697019
+2121050239@student.humg.edu.vn
+Cán bộ hướng dẫn:
+TT
+Mã cán bộ
+Họ và tên
+Đơn vị
+Điện thoại
+E-mail
+1
+0801-16
+ThS. Ngô Ngọc Anh
+CNPM 
+0971117492
+ngongocanh@humg.edu.vn
+
+Tên đề tài
+Tiếng Việt: Phát triển Website thương mại điện tử kinh doanh phụ kiện máy tính
+Tiếng Anh: Develop E-commerce Website for computer accessories
+Lý do chọn đề tài
+Trong thời đại công nghệ số phát triển mạnh, Internet đã dần trở thành một phần không thể thiếu trong cuộc sống của con người nói chung và trong hoạt động kinh doanh, thương mại nói riêng, thương mại điện tử đã và đang dần khẳng định vị thế của mình so với thương mại truyền thống bằng sự tiện lợi, nhanh chóng của mình. Đặc biệt là sau thời gian cách ly bởi dịch Covid-19, thói quen tiêu dùng của cả hành tinh đã thay đổi hoàn toàn, giờ người ta ưu tiên sự tiện lợi, nhanh chóng, ít tiếp xúc trực tiếp và có thể dễ dàng tìm hiểu, so sánh, cân nhắc trước khi ra quyết định mua hàng khi mà khả năng truy cập của một chiếc máy tính, điện thoại được kết nối internet là không giới hạn
+Bên cạnh đó, xuất phát từ thực tế đang làm việc tại một cửa hàng kinh doanh phụ kiện máy tính, em nhận thấy việc xây dựng một website thương mại điện tử là rất cần thiết, phù hợp với tầm nhìn, chiến lược kinh doanh của doanh nghiệp, giúp tăng khả năng tiếp cận khách hàng, tăng độ nhận diện thương hiệu, tối ưu công tác quản lý, thống kê, tối ưu chi phí vận hành và tiết kiệm thời gian cho doanh nghiệp. Khách hàng cũng sẽ có kênh thông tin đầy đủ, trực quan, tiết kiệm được thời gian tìm kiếm, so sánh, mua hàng và thanh toán; khi cần liên hệ hỗ trợ tư vấn hay các vấn đề hậu mãi cũng sẽ được giải quyết nhanh chóng, thuận tiện ngay trên nền tảng trực tuyến
+
+Vì những lý do trên, đề tài “Phát triển Website thương mại điện tử kinh doanh phụ kiện máy tính” được lựa chọn nghiên cứu và triển khai, với mục tiêu xây dựng một hệ thống website thương mại điện tử đáp ứng nhu cầu mua sắm trực tuyến của khách hàng, đồng thời hỗ trợ hoạt động quản lý và kinh doanh của cửa hàng
+Mục tiêu của đề tài
+Mục tiêu chính của đề tài là thiết kế và phát triển một website thương mại điện tử kinh doanh phụ kiện máy tính nhằm hỗ trợ cửa hàng trong việc giới thiệu sản phẩm, tiếp cận nhiều khách hàng hơn và nâng cao hiệu quả trong hoạt động kinh doanh. Hệ thống website được xây dựng sẽ cho phép người dùng dễ dàng tìm kiếm, xem thông tin, đặt mua sản phẩm và thanh toán một cách nhanh chóng. Đồng thời website còn cung cấp các chức năng quản lý, thống kê dành cho quản trị viên như quản lý sản phẩm, đơn hàng, thông tin khách hàng, góp phần nâng cao hiệu quả quản lý và tối ưu hóa quy trình bán hàng của cửa hàng
+Các kết quả mong đợi khi hoàn thành:
+Xây dựng được một nguyên mẫu website thương mại điện tử hoàn chỉnh, đáp ứng nhu cầu giới thiệu và kinh doanh các sản phẩm phụ kiện máy tính trên nền tảng trực tuyến
+Cung cấp giao diện thân thiện và dễ sử dụng giúp người dùng có thể dễ dàng tìm kiếm, xem thông tin, đặt mua và thanh toán
+Xây dựng hệ thống quản trị dành cho quản trị viên, cho phép quản lý sản phẩm, danh mục sản phẩm, đơn hàng và thông tin khách hàng một cách hiệu quả
+Hỗ trợ cửa hàng trong việc quảng bá sản phẩm và nâng cao khả năng tiếp cận khách hàng, từ đó góp phần nâng cao hiệu quả hoạt động kinh doanh
+Đề tài xây dựng một website thương mại điện tử giúp cửa hàng mở rộng kênh bán hàng, tăng độ nhận diện,tăng khả năng tiếp cận thị trường. Thông qua website, cửa hàng có thể giới thiệu sản phẩm, thông tin chi tiết, thông báo các chương trình khuyến mãi,…ngoài ra hệ thống còn hỗ trợ cửa hàng trong việc quản lý sản phẩm, đơn hàng, thông tin khách hàng một cách thuận tiện và hiệu quả, góp phần giảm tải công việc quản lý thủ công. Việc triển khai website cũng sẽ giúp cải thiện trải nghiệm mua sắm của khách hàng, mang đến sự tiện lợi trong quá trình tìm kiếm, đặt mua, thanh toán. Từ đó nâng cao hiệu quả kinh doanh và khả năng cạnh tranh của cửa hàng
+Phạm vi nghiên cứu
+Đề tài được xây dựng trên nền tảng website ASP.NET, Entity Framework và SQL Server
+Đối tượng nghiên cứu của đề tài là việc phân tích, thiết kế và phát triển hệ thống website thương mại điện tử phục vụ hoạt động kinh doanh phụ kiện máy tính, các mô hình và phương pháp xây dựng website bán hàng trực tuyến, các chức năng cơ bản của một hệ thống thương mại điện tử. Bên cạnh đó đề tài cũng nghiên cứu cách thức tổ chức, vận hành, bán hàng, quản lý của cửa hàng để xây dựng một hệ thống cung cấp các giải pháp và công cụ phù hợp với nhu cầu thực tế của cửa hàng. Các dữ liệu trong phạm vi đề tài được thu thập từ thực tế hoạt động kinh doanh của cửa hàng phụ kiện máy tính “Flash Titan” nơi em đang làm việc, đồng thời được bổ sung thêm dữ liệu mẫu nhằm phục vụ quá trình xây dựng, kiểm thử hệ thống
+Trong khuôn khổ đề tài, hệ thống website thương mại điện tử kinh doanh phụ kiện máy tính chỉ tập trung xây dựng nguyên mẫu các chức năng cơ bản phục vụ hoạt động mua sắm trực tuyến và quản lý cửa hàng với quy mô vừa và nhỏ. Các yếu tố nâng cao như trí tuệ nhân tạo tích hợp trong gợi ý sản phẩm, phân tích hành vi người dùng hay hệ thống dữ liệu lớn, các vấn đề triển khai hệ thống, tối ưu hóa hiệu năng cho lượng truy cập lớn sẽ không xét tới trong phạm vi đề tài. Những nội dung này sẽ được nghiên cứu, phát triển trong giai đoạn sau, khi nguyên mẫu hệ thống đã đạt các yêu cầu cơ bản ban đầu của cửa hàng
+Nội dung nghiên cứu
+Nghiên cứu hoạt động kinh doanh, cách thức tổ chức và vận hành thực tế của cửa hàng để phác thảo ra bản thiết kế phù hợp với tình hình thực tế nhất. Thu thập các dữ liệu về sản phẩm, khách hàng… Xác định các yêu cầu về nguyên mẫu hệ thống website
+Phân tích và thiết kế hệ thống, trình bày các mô hình mô tả cách thức hoạt động, cấu trúc, chức năng của các thành phần hệ thống website
+Thiết kế giao diện người dùng, giao diện quản lý của quản trị viên, chuẩn bị cơ sở dữ liệu
+Xây dựng các tiến trình logic, xử lý nghiệp vụ, tương tác dữ liệu,…
+Kiểm thử với nhiều mẫu dữ liệu, cải thiện dần để đưa ra phiên bản nguyên mẫu đạt yêu cầu
+Kế hoạch thực hiện
+Tuần
+Thời gian
+Nội dung công việc
+1
+1/3 - 7/3
+Tìm hiểu yêu cầu đề tài, xác định mục tiêu nghiên cứu, thu thập tài liệu liên quan đến thương mại điện tử và các công nghệ sử dụng (ASP.NET MVC, Entity Framework, SQL Server)
+2
+8/3 - 14/3
+Phân tích yêu cầu hệ thống, xác định các chức năng chính của website như quản lý sản phẩm, giỏ hàng, đặt hàng, quản lý khách hàng và quản trị hệ thống
+3
+15/3 - 21/3
+Xây dựng mô hình hệ thống: xác định các tác nhân, xây dựng sơ đồ Use Case và mô tả các chức năng của hệ thống
+4
+22/3 - 28/3
+Thiết kế cơ sở dữ liệu: xây dựng sơ đồ ERD và thiết kế các bảng dữ liệu như sản phẩm, danh mục, khách hàng, đơn hàng, chi tiết đơn hàng
+5
+29/3 - 4/4
+Thiết kế kiến trúc hệ thống theo mô hình MVC và thiết kế giao diện cơ bản của website
+6
+5/4 - 11/4
+Xây dựng các chức năng phía người dùng: hiển thị danh sách sản phẩm, xem chi tiết sản phẩm, tìm kiếm sản phẩm
+7
+12/4 - 18/4
+Phát triển các chức năng giỏ hàng và đặt hàng, xử lý dữ liệu bằng Entity Framework và lưu trữ trên SQL Server
+8
+19/4 - 25/4
+Xây dựng hệ thống quản trị: quản lý sản phẩm, danh mục sản phẩm và đơn hàng
+9
+26/4 - 2/5
+Kiểm thử hệ thống trên môi trường localhost, sửa lỗi và hoàn thiện các chức năng của website
+10
+3/5 - 9/5
+Hoàn thiện hệ thống, viết báo cáo đồ án
+                          Hà Nội, ngày   tháng    năm   
+Cán bộ hướng dẫn
+(ký, họ tên)
+
+
+
+Sinh viên thực hiện
+(ký, họ tên)
+
+
+
+
