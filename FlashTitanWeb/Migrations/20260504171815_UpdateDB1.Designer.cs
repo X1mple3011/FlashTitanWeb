@@ -4,6 +4,7 @@ using FlashTitanWeb.Repository;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlashTitanWeb.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20260504171815_UpdateDB1")]
+    partial class UpdateDB1
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -73,10 +76,6 @@ namespace FlashTitanWeb.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("CartId");
-
-                    b.HasIndex("ProductId");
-
                     b.ToTable("CartItems");
                 });
 
@@ -95,8 +94,6 @@ namespace FlashTitanWeb.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Carts");
                 });
@@ -152,10 +149,6 @@ namespace FlashTitanWeb.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("OrderId");
-
-                    b.HasIndex("ProductId");
-
                     b.ToTable("OrderDetails");
                 });
 
@@ -174,8 +167,9 @@ namespace FlashTitanWeb.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<int>("PaymentId")
-                        .HasColumnType("int");
+                    b.Property<string>("PaymentMethod")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Status")
                         .IsRequired()
@@ -185,10 +179,6 @@ namespace FlashTitanWeb.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("PaymentId");
-
-                    b.HasIndex("UserId");
 
                     b.ToTable("Orders");
                 });
@@ -281,74 +271,6 @@ namespace FlashTitanWeb.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("FlashTitanWeb.Models.CartItemModel", b =>
-                {
-                    b.HasOne("FlashTitanWeb.Models.CartModel", "Cart")
-                        .WithMany("CartItems")
-                        .HasForeignKey("CartId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("FlashTitanWeb.Models.ProductModel", "Product")
-                        .WithMany()
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Cart");
-
-                    b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.CartModel", b =>
-                {
-                    b.HasOne("FlashTitanWeb.Models.UserModel", "User")
-                        .WithMany("Carts")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("User");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.OrderDetailModel", b =>
-                {
-                    b.HasOne("FlashTitanWeb.Models.OrderModel", "Order")
-                        .WithMany("OrderDetails")
-                        .HasForeignKey("OrderId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("FlashTitanWeb.Models.ProductModel", "Product")
-                        .WithMany()
-                        .HasForeignKey("ProductId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Order");
-
-                    b.Navigation("Product");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.OrderModel", b =>
-                {
-                    b.HasOne("FlashTitanWeb.Models.PaymentModel", "Payment")
-                        .WithMany()
-                        .HasForeignKey("PaymentId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("FlashTitanWeb.Models.UserModel", "User")
-                        .WithMany("Orders")
-                        .HasForeignKey("UserId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Payment");
-
-                    b.Navigation("User");
-                });
-
             modelBuilder.Entity("FlashTitanWeb.Models.ProductModel", b =>
                 {
                     b.HasOne("FlashTitanWeb.Models.BrandModel", "Brand")
@@ -366,23 +288,6 @@ namespace FlashTitanWeb.Migrations
                     b.Navigation("Brand");
 
                     b.Navigation("Category");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.CartModel", b =>
-                {
-                    b.Navigation("CartItems");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.OrderModel", b =>
-                {
-                    b.Navigation("OrderDetails");
-                });
-
-            modelBuilder.Entity("FlashTitanWeb.Models.UserModel", b =>
-                {
-                    b.Navigation("Carts");
-
-                    b.Navigation("Orders");
                 });
 #pragma warning restore 612, 618
         }

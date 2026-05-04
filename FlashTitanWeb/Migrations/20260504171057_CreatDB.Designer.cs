@@ -11,8 +11,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace FlashTitanWeb.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20260409032612_FirstMigration")]
-    partial class FirstMigration
+    [Migration("20260504171057_CreatDB")]
+    partial class CreatDB
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -26,8 +26,11 @@ namespace FlashTitanWeb.Migrations
 
             modelBuilder.Entity("FlashTitanWeb.Models.BrandModel", b =>
                 {
-                    b.Property<string>("ID")
-                        .HasColumnType("nvarchar(450)");
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"));
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -90,10 +93,6 @@ namespace FlashTitanWeb.Migrations
                     b.Property<int>("BrandID")
                         .HasColumnType("int");
 
-                    b.Property<string>("BrandID1")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(450)");
-
                     b.Property<int>("CategoryID")
                         .HasColumnType("int");
 
@@ -114,7 +113,7 @@ namespace FlashTitanWeb.Migrations
 
                     b.HasKey("Id");
 
-                    b.HasIndex("BrandID1");
+                    b.HasIndex("BrandID");
 
                     b.HasIndex("CategoryID");
 
@@ -125,7 +124,7 @@ namespace FlashTitanWeb.Migrations
                 {
                     b.HasOne("FlashTitanWeb.Models.BrandModel", "Brand")
                         .WithMany()
-                        .HasForeignKey("BrandID1")
+                        .HasForeignKey("BrandID")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

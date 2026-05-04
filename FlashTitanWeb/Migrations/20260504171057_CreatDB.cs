@@ -5,7 +5,7 @@
 namespace FlashTitanWeb.Migrations
 {
     /// <inheritdoc />
-    public partial class FirstMigration : Migration
+    public partial class CreatDB : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -14,7 +14,8 @@ namespace FlashTitanWeb.Migrations
                 name: "Brands",
                 columns: table => new
                 {
-                    ID = table.Column<string>(type: "nvarchar(450)", nullable: false),
+                    ID = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Slug = table.Column<string>(type: "nvarchar(max)", nullable: false),
@@ -52,15 +53,14 @@ namespace FlashTitanWeb.Migrations
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Price = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     BrandID = table.Column<int>(type: "int", nullable: false),
-                    CategoryID = table.Column<int>(type: "int", nullable: false),
-                    BrandID1 = table.Column<string>(type: "nvarchar(450)", nullable: false)
+                    CategoryID = table.Column<int>(type: "int", nullable: false)
                 },
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_Products", x => x.Id);
                     table.ForeignKey(
-                        name: "FK_Products_Brands_BrandID1",
-                        column: x => x.BrandID1,
+                        name: "FK_Products_Brands_BrandID",
+                        column: x => x.BrandID,
                         principalTable: "Brands",
                         principalColumn: "ID",
                         onDelete: ReferentialAction.Cascade);
@@ -73,9 +73,9 @@ namespace FlashTitanWeb.Migrations
                 });
 
             migrationBuilder.CreateIndex(
-                name: "IX_Products_BrandID1",
+                name: "IX_Products_BrandID",
                 table: "Products",
-                column: "BrandID1");
+                column: "BrandID");
 
             migrationBuilder.CreateIndex(
                 name: "IX_Products_CategoryID",

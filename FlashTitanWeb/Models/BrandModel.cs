@@ -5,7 +5,7 @@ namespace FlashTitanWeb.Models
     public class BrandModel
     {
         [Key]
-        public string ID { get; set; }
+        public int ID { get; set; }
         [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập tên thương hiệu")]
         public string Name { get; set; }
         [Required, MinLength(4, ErrorMessage = "Yêu cầu nhập mô tả thương hiệu")]
